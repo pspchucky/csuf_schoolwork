@@ -1,0 +1,8 @@
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\bin\Release\Project4.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\bin\Release\Project4.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\bin\Release\Project4.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\obj\Release\Project4.SGFallingApples.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\obj\Release\Project4.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\obj\Release\Project4.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\obj\Release\Project4.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project4\Project4\obj\Release\Project4.pdb

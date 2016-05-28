@@ -1,0 +1,8 @@
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\obj\Debug\Project3.RicochetingBall.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Sergio\Documents\Visual Studio 2015\Projects\223N_Project3\Project3\obj\Debug\Project3.pdb
